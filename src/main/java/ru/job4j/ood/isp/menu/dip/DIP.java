@@ -8,7 +8,6 @@ public class DIP {
      * изменения UserService.
      */
 
-
     static class Database {
         public void connect() {
         }
